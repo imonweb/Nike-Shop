@@ -30,7 +30,7 @@ body {
 }
 
 img {
-  max-width: 1000%;
+  max-width: 100%;
 }
 
 .logo img {
@@ -45,13 +45,13 @@ a:hover {
   color: var(--color-main);
 }
 
-.contianer {
+.container {
   max-width: var(--container-max-width);
   margin: auto;
   padding-left: 1rem;
   padding-right: 1rem;
 }
-a
+
 .btn {
   border: none;
   outline: none;
